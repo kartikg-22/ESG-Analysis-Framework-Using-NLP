@@ -10,6 +10,7 @@ This analysis extracts text from ESG reports in PDF format, performs natural lan
 For this analysis, ESG reports from Amazon 2023, Citibank 2019, and McKinsey 2021 were used to extract and model ESG themes.
 
 Given the broad scope of ESG, companies focus on different aspects based on their operations and culture. The framework is designed to be scalable, enabling the ingestion of more ESG reports from various companies across industries. Future analyses will expand this approach to capture a wider array of ESG topics from different sectors.
+
 ## Notebook
 1. https://github.com/kartikg-22/-ESG-Analysis-Framework-Using-NLP/tree/main/notebook
 
